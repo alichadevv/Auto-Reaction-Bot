@@ -1,19 +1,20 @@
-export const startMessage = `👋 Hello there, UserName !
+export const startMessage = `👋 Halo, UserName!
 
-Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
+Selamat datang di *Ryu Izumi Bot 🎉*, siap untuk menambah sedikit kebahagiaan dalam percakapan Anda!
 
-💁‍♂️ Here's how I spice up your chats:
+💁‍♂️ Begini cara saya menyemarakkan obrolan Anda:
 
-*✨ DM Magic*: Message me and receive a surprise emoji in return. Expect the unexpected and enjoy the fun!
-*🏖 Group & Channel*: Add me to your groups or channels, and I'll keep the vibe positive by reacting to messages with engaging emojis.
+*✨ Keajaiban DM*: Kirim pesan kepada saya dan terima emoji kejutan sebagai balasan. Harapkan hal yang tak terduga dan nikmati keseruannya!
 
-✍️ To view the emojis I can use, simply type /reactions. To create your own auto reaction bot, head over to: [Auto-Reaction-Bot on GitHub](https://github.com/Malith-Rukshan/Auto-Reaction-Bot).
+*🏖 Grup & Saluran*: Tambahkan saya ke grup atau saluran Anda, dan saya akan menjaga suasana tetap positif dengan bereaksi terhadap pesan menggunakan emoji yang menarik.
 
-Let's elevate our conversations with more energy and color! 🚀
+✍️ Untuk melihat emoji yang dapat saya gunakan, cukup ketik /reactions. Untuk membuat bot reaksi otomatis Anda sendiri, kunjungi: [Auto-Reaction-Bot di GitHub](https://github.com/Malith-Rukshan/Auto-Reaction-Bot).
 
-💖 Keep us running! Support the bot: /donate`
+Mari tingkatkan percakapan kita dengan lebih banyak energi dan warna! 🚀
 
-export const donateMessage = `🙏 Support Auto Reaction Bot ✨ and help us stay online and continue to improve! ✨ Your donations keep our services live and enable us to bring you new features and enhancements. Every star makes a difference! Thank you! 🌟🚀`
+💖 Dukung kami terus!  Dukung bot ini: /donate`
+
+export const donateMessage = `🙏 Dukung Ryu Izumi Bot ✨ dan bantu kami tetap online dan terus berkembang! ✨ Donasi Anda menjaga layanan kami tetap aktif dan memungkinkan kami untuk menghadirkan fitur dan peningkatan baru. Setiap bintang sangat berarti! Terima kasih! 🌟🚀`
 
 export const htmlContent = `
 <!DOCTYPE html>
@@ -21,9 +22,9 @@ export const htmlContent = `
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Telegram Auto Reaction Bot</title>
-<meta name="description" content="Single Developers presents an open-source Telegram Auto Reaction bot developed by Malith-Rukshan. Reacts to all messages received from chats automatically. Serverless deployment on Cloudflare.">
-<meta name="keywords" content="Telegram bot, auto reaction bot, open-source, Single Developers, Malith-Rukshan, Telegram auto reaction, serverless telegram bot, reaction automation">
+<title>Telegram Ryu Izumi Bot</title>
+<meta name="description" content="Single Developers mempersembahkan bot Telegram Auto Reaction sumber terbuka yang dikembangkan oleh YuuMD. Bereaksi terhadap semua pesan yang diterima dari obrolan secara otomatis. Penyebaran tanpa server di Cloudflare.">
+<meta name="keywords" content="Telegram bot, auto reaction bot, open-source, Single Developers, YuuMD, Telegram auto reaction, serverless telegram bot, reaction automation">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <style>
   body, html {
@@ -43,7 +44,7 @@ export const htmlContent = `
 </head>
 <body>
 
-<div class="title">Telegram Auto Reaction Bot 🎉</div>
+<div class="title">Telegram Ryu Izumi Bot 🎉</div>
 <img class="logo" src="https://telegra.ph/file/cb59967120c6bda64580b.jpg">
 
 <button class="button githubBtn" onclick="window.location='https://github.com/Malith-Rukshan/Auto-Reaction-Bot'">Open Source 🌱</button>
@@ -53,7 +54,7 @@ export const htmlContent = `
   <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot/fork" data-size="large" data-show-count="true">Fork</a>
 </div>
 <div>
-  <a class="github-button" href="https://github.com/Malith-Rukshan" data-size="large">Follow @Malith-Rukshan</a>
+  <a class="github-button" href="https://github.com/alichadevv" data-size="large">Follow @alichadevv</a>
 </div>
 </body>
 </html>

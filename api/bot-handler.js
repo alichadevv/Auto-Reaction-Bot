@@ -36,7 +36,7 @@ export async function onUpdate(data, botApi, Reactions, RestrictedChats, botUser
                     { "text": "Github Source 📥", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot" },
                 ],
                 [
-                    { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/Auto_ReactionBOT?start=donate" }
+                    { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/ryuizumi_bot?start=donate" }
                 ]
             ]);
         } else if (data.message && text === '/reactions') {
